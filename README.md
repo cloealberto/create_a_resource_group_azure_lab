@@ -62,4 +62,4 @@ Este projeto está sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) par
 
 ---
 
-*Criado por [Seu Nome](https://github.com/seuusuario)*
+*Visite meu perfil no Linkedin: [Cloe Alberto de Souza](https://linkedin.com/in/cloealberto)*
